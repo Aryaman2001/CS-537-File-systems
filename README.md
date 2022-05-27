@@ -12,4 +12,4 @@ The police know that bank robbers usually take pictures of banks that they plan 
 
 To catch the bad guy and prevent future robberies, your goal is to reconstruct all pictures (jpg files only) in the disk images and make the subject regret not taking CS 537 in the past. Of course, you may understand the regret of taking 537.
 
-Note: A folder containing disk images was provided.
+Note: A folder containing disk images was provided. Code written by my partner and I are in runscan.c.
